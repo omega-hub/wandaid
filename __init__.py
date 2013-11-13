@@ -1,0 +1,1 @@
+from wandaid_class import *
